@@ -1,5 +1,7 @@
 # awesome-interview-questions
 
+{:toc max_level=3 }
+
 ## Analytical skills
 
 * Describe a project or situation where you successfully demonstrated your analytical abilities.
