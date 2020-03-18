@@ -1,5 +1,24 @@
 # awesome-interview-questions
 
+# Table of context
+
+- [Analytical skills](#analytical-skills)
+- [Behavioral](#behavioral)
+- [Communication skills](#communication-skills)
+- [Critical thinking](#critical-thinking)
+- [Cultural fit](#cultural-fit)
+- [Emotional Intelligence](#emotional-intelligence)
+- [Exit](#exit)
+- [Leadership skills](#leadership-skills)
+- [Manager](#manager)
+- [Personality](#personality)
+- [Phone](#phone)
+- [Phone screen](#phone-screen)
+- [Problem-solving](#problrm-solving)
+- [Reference check](#reference-check)
+- [Team player](#team-player)
+- [Technical](#technical)
+
 
 ## Analytical skills
 
@@ -58,7 +77,7 @@
 * What are, in your opinion, the key ingredients in maintaining successful business relationships?
 * Tell me about the most stressful situation you faced at work. What happened? How did you handle it?
 
-## Emotional Intelligence (EQ)
+## Emotional Intelligence
 
 * Give a specific example of a time when you had to address an angry customer. What was the problem and what was the outcome?
 * Describe a situation when you were leading a team on a project. What did you do to motivate your colleagues to give their best?
