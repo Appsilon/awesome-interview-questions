@@ -1,6 +1,5 @@
 # awesome-interview-questions
 
-{:toc max_level=3 }
 
 ## Analytical skills
 
