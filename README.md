@@ -14,7 +14,7 @@
 - [Personality](#personality)
 - [Phone](#phone)
 - [Phone screen](#phone-screen)
-- [Problem-solving](#problrm-solving)
+- [Problem-solving](#problem-solving)
 - [Reference check](#reference-check)
 - [Team player](#team-player)
 - [Technical](#technical)
