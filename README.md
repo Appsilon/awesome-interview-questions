@@ -65,6 +65,24 @@
 
 ## Cultural fit
 
+* At your previous job - who did you have the most difficult time communicating with and why? What did you do to improve the relationship?
+* Tell me about the time you were given less than favorable feedback. How did you handle it?
+* What’s the biggest challenge you faced working in a team environment? How did you handle it?
+* How do you motivate others to do their best work?
+* How would you describe the culture at previous companies you’ve worked at? DEEPER: Did you enjoy working in that company culture? What does a healthy work culture mean to you?
+* What kind of situation can create stress for you and, when that happens, what do you do to cope?
+* What role are you are most likely to play in a team? Give an example.
+* What gets you excited about coming to work?
+* How would you describe our company culture?
+* Which of our company’s core values do you most/least identify with?
+* Tell me about a time you solved a problem at work. What was the issue, and how did you approach it? 
+* How do you like to be managed? DEEPER: Tell me about a disagreement you had with your last manager. What was the issue, and how did you approach the situation?
+* How would you describe the culture at previous companies you’ve worked at?
+* How do you feel when someone interrupts you while you are in the middle of an important task?
+* Tell me about the time you felt you were misunderstood at work in trying to convey something. What happened? How did you handle it? 
+* When was the last time you asked for help at your job? Describe the situation.  How did you feel about asking for help?
+* When was a time you “stopped and helped out” even though it wasn’t your responsibility?
+* What makes you lose your cool/sets you off? Tell me about the last time it happened.
 * Describe the type of work environment in which you can really give your best and be most productive.
 * Did you become a really good friend with any of your colleagues at your previous (or current) workplace? What do you think about having close relationships with your coworkers? Is this a good or a bad practice?
 * Describe a situation where your colleagues disagreed with your ideas. What did you do?
